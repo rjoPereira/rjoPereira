@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ricardo Pereira
+- 👀 I’m interested in Freelancing.
+- 🌱 I’m currently learning Frontend.
